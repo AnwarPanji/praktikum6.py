@@ -1,0 +1,1 @@
+# praktikum6.py
