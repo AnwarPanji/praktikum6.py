@@ -141,7 +141,7 @@ while True:
 print('Program Selesai') 
 ```
 ### BERIKUT HASIL PROGRAM
-- Jika inputan lanjut=='t' berarti menmbahkan / (t)ambah, maka akan muncul untuk memasukkan nama, nim, nilai uts, uas dan tugas seperti dibawah ini :
+- Jika memasukkan't' berarti menmbahkan / (t)ambah, maka akan muncul untuk memasukkan nama, nim, nilai uts, uas dan tugas seperti dibawah ini :
 ![image](screenshot/tambah_1.png)
 
 - setelah menambahkan jika ingin melihat data yang sudah di tambahkan silahkan masukan 'l' untuk menmpilkan data dan hasilnya seperti dibawah ini :
