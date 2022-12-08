@@ -146,9 +146,13 @@ print('Program Selesai')
 
 - setelah menambahkan jika ingin melihat data yang sudah di tambahkan silahkan masukan 'l' untuk menmpilkan data dan hasilnya seperti dibawah ini :
 ![image](screenshot/lihat_1.png)
-- selanjutnya masukkan 'u' untuk mengubah data :
-- jika ingin menghapus data silahkan masukkan 'h' untuk menghapus
+
+- selanjutnya masukkan 'u' untuk mengubah data
+
+- jika ingin menghapus data silahkan masukkan 'h' untuk menghapus:
+
 ![image](Screenshot/hapus_1.png)
+
 - jika sudah selesai ingin mengakhirinya, masukkan 'k' untuk keluar :
 ![image](screenshot/keluar_1.png)
 
