@@ -10,7 +10,7 @@ Kelas       :TI.22.C1
 ## PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN SYNTAX FUNGSI
 
 ### FLOWCHART PROGRAM
-![image](screenshot/flowchart%20sub.png)
+![image](screenshot/2.png)
 
 ### PENJELASAN PROGRAM
 Fungsi atau dalam istilah pemrograman disebut dengan “function” merupakan blok kode yang digunakan untuk menyelesaikan masalah spesifik
