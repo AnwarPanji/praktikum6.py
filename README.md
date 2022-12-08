@@ -151,7 +151,7 @@ print('Program Selesai')
 
 - jika ingin menghapus data silahkan masukkan 'h' untuk menghapus:
 
-![image](Screenshot/hapus_1.png)
+![image](screenshot/hapus_1.png)
 
 - jika sudah selesai ingin mengakhirinya, masukkan 'k' untuk keluar :
 ![image](screenshot/keluar_1.png)
